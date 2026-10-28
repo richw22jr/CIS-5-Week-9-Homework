@@ -4,11 +4,6 @@
 // CIS 5 Week 09 · Menu on the lab
 // Paste your lab functions here, or fill the TODOs.
 
-
-void printsummary(double avg) {
-  std::cout << "Average: " << avg << "\n";
-}
-
 void printMenu() {
   std::cout << "1) Average  2) High  3) Quit\n";
 }
